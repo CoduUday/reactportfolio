@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://CoduUday.github.io/uday-portfolio/",
+  "homepage": "https://CoduUday.github.io/portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.3",
