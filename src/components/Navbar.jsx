@@ -37,7 +37,7 @@ const Navbar = () => {
               }}
             >
               
-              Portfolio
+              Projects
             </NavLink>
           </li>
         <li>
