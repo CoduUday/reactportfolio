@@ -70,7 +70,7 @@ const Portfolio = () => {
             <div className='my-10 rightside relative  bg-[#1e1e20] w-4xl p-8 border border-[#383838] rounded-lg'>
                 <Navbar></Navbar>
                 <div>
-                    <h2 className='animation mt-3.75 poppins text-3xl font-semibold text-white'>Portfolio</h2>
+                    <h2 className='animation mt-3.75 poppins text-3xl font-semibold text-white'>Projects</h2>
                     <div className="animation separation h-1.5 w-10 my-5 rounded-lg bg-[linear-gradient(to_right,hsl(45,100%,72%),hsl(35,100%,68%))]">
                     </div>
                    <div className="grid grid-cols-3 gap-5">
